@@ -24,9 +24,6 @@ This project predicts the quality of red wine based on its physicochemical prope
 - Hyperparameter tuning using cross-validation
 - Performance metrics: Accuracy, Precision, Recall, F1-score, AUC
 
-## 📎 Authors
-- Tanmay Kakade
-- Yash Soni
 
 ## 🔗 Project Report
 For detailed explanation and results, refer to the [project report](https://drive.google.com/file/d/1emRJQkTRVPmRo4TZjv-nS0FTxvl24nat/view?usp=sharing).
