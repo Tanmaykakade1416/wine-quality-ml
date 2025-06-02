@@ -4,7 +4,7 @@
 This project predicts the quality of red wine based on its physicochemical properties using various machine learning models.
 
 ## 📊 Dataset
-- Source: [UCI ML Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
+- Source: [UCI ML Repository](https://github.com/Tanmaykakade1416/wine-quality-ml)
 - 11 input features (e.g., acidity, alcohol, sulphates)
 - Target: Wine quality score (0–10)
 
@@ -29,4 +29,4 @@ This project predicts the quality of red wine based on its physicochemical prope
 - Yash Soni
 
 ## 🔗 Project Report
-For detailed explanation and results, refer to the [project report](./project_report.pdf).
+For detailed explanation and results, refer to the [project report](https://drive.google.com/file/d/1emRJQkTRVPmRo4TZjv-nS0FTxvl24nat/view?usp=sharing).
